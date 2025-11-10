@@ -64,13 +64,38 @@ merging them into one sorted linked list:
 
 
 ```
+
+### Questão 295. Find Median from Data Stream
+
+rode o Python: Joao_Pedro/295.py
+
+```
+Input
+["MedianFinder", "addNum", "addNum", "findMedian", "addNum", "findMedian"]
+[[], [1], [2], [], [3], []]
+Output
+[null, null, null, 1.5, null, 2.0]
+
+
+```
+
+### Questão 4. Median of Two Sorted Arrays
+
+rode o Python: Joao_Pedro/4.py
+
+```
+Input: nums1 = [1,3], nums2 = [2]
+Output: 2.00000
+Explanation: merged array = [1,2,3] and median is 2.
+
+```
     
     
 ## Instalação 
-<p>Compilador C instalado </p>
+<p>Compilador C instalado, Python instalado </p>
 
 
-**Linguagem**: C <br>
+**Linguagem**: C e Python <br>
 
 
 
