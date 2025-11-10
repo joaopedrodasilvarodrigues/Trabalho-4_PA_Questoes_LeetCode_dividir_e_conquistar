@@ -23,16 +23,23 @@
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
+## Guia de execução
+
+### Questão 23
+
+rode o C:     Guilherme_Maciel/Kth_Largest_Element_in_an_Array.c 
+
+```
+Input: nums = [3,2,1,5,6,4], k = 2
+Output: 5
+
+
+```
 ## Instalação 
+<p>Compilador C instalado </p>
+
+
 **Linguagem**: C <br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
 
