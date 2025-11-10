@@ -33,6 +33,13 @@
 
 ![(4. Median of Two Sorted Arrays)](Imagens/4.png) 
 
+### [( 215. Kth Largest Element in an Array)](https://leetcode.com/problems/kth-largest-element-in-an-array/?envType=problem-list-v2&envId=divide-and-conquer)
+![(215. Kth Largest Element in an Array)](Imagens/LargestElement.png) 
+
+### [( 23. Merge k Sorted Lists)](leetcode.com/problems/merge-k-sorted-lists/description/?envType=problem-list-v2&envId=divide-and-conquer)
+![(23. Merge k Sorted Lists)](Imagens/mergeklist.png) 
+
+
 
 ## Guia de execução
 
