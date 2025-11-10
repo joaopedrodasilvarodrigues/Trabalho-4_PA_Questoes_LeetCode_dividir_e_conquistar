@@ -1,4 +1,4 @@
-# DividirConquistar
+# Dividir e Conquistar
 
 **Número da Lista**: 41<br>
 **Conteúdo da Disciplina**: Dividir e conquistar<br>
@@ -19,9 +19,20 @@
 | Título | Responsável | 
 | -- | -- | 
 | 23. Merge k Sorted Lists | Guilherme Maciel | 
+| 295. Find Median from Data Stream | João Pedro | 
+| 4. Median of Two Sorted Arrays | João Pedro | 
+
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### [(295. Find Median from Data Stream)](https://leetcode.com/problems/find-median-from-data-stream/description/)
+
+![(295. Find Median from Data Stream)](Imagens/295_PA.png)
+
+### [(4. Median of Two Sorted Arrays)](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+
+![(4. Median of Two Sorted Arrays)](Imagens/4.png) 
+
 
 ## Guia de execução
 
