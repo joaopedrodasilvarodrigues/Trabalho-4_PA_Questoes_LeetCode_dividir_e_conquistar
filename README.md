@@ -40,6 +40,14 @@
 ![(23. Merge k Sorted Lists)](Imagens/mergeklist.png) 
 
 
+## Link do vídeo
+
+Clique no link abaixo para ser direcionado para o vídeo: 
+
+[(Link do Vídeo)](https://youtu.be/3p5_YhLHano)  
+
+
+
 
 ## Guia de execução
 
